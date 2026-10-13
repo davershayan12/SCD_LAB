@@ -1,0 +1,8 @@
+public class Calculator {
+    public static void main(String[] args) {
+        int numberA = 10;
+        int numberB = 20;
+        int sum = numberA + numberB;
+        System.out.println("The total sum is: " + sum);
+    }
+}
